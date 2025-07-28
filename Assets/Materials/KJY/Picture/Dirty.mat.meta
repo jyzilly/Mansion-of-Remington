@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17327a8d4ae02fe4386c48ceb397dbb3
+timeCreated: 1467261622
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66110
+  packageName: Hammer PBR (Clean, Bloody, Dirty)
+  packageVersion: 1.0
+  assetPath: Assets/Materials/Dirty.mat
+  uploadId: 125931
