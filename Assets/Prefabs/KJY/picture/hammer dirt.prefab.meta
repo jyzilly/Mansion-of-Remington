@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e96fd02cb65e234dab219016aad0369
+timeCreated: 1467823363
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66110
+  packageName: Hammer PBR (Clean, Bloody, Dirty)
+  packageVersion: 1.0
+  assetPath: Assets/Prefabs/hammer dirt.prefab
+  uploadId: 125931
