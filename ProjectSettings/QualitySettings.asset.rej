@@ -1,0 +1,9 @@
+diff a/ProjectSettings/QualitySettings.asset b/ProjectSettings/QualitySettings.asset	(rejected hunks)
+@@ -307,6 +307,7 @@
+     asyncUploadBufferSize: 16
+     asyncUploadPersistentBuffer: 1
+     resolutionScalingFixedDPIFactor: 1
++    customRenderPipeline: {fileID: 11400000, guid: fa67061cec900a3479630571798d59e8, type: 2}
+     terrainQualityOverrides: 0
+     terrainPixelError: 1
+     terrainDetailDensityScale: 1
